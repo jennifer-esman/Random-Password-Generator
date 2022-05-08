@@ -17,7 +17,7 @@ The project was initialized to create a random password generator that allows fo
 
 ## Setup
 To run the project, click the link below:
-https://jennifer-esman.github.io/My_Portfolio/
+https://jennifer-esman.github.io/Random-Password-Generator/
 
 ## Screenshots and Multimedia
 <img width="400" alt="Screen Shot of Finished Generator" src="./Assets/03-javascript-homework-demo.png">
